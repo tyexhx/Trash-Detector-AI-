@@ -1,0 +1,3 @@
+0 Trash
+1 Clean
+2 Human

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Local outputs/logs
+*_out.txt
+load_*.txt
+*.log
+
+# Large exports / duplicates (keep SavedModel directory instead)
+*.zip
+
